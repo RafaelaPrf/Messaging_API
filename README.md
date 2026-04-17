@@ -71,7 +71,7 @@ http://localhost:8080/messages
 
 ---
 
-## 🧪 Testing
+## Testing
 
 You can test the API using Postman:
 
